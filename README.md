@@ -8,7 +8,7 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 *Main application interface showing news aggregation and analysis features*
 
 ![News Analysis Dashboard](Project%20images/Screenshot%202025-06-08%20184332.png)
-*Advanced analysis dashboard with manipulation detection and sentiment insights*
+*Advanced analysis dashboard of sentiment insights*
 
 
 ## ✨ Features
@@ -26,7 +26,7 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Accessibility Controls** - Font size, line spacing, high contrast mode
 
 ![Accessibility Interface](Project%20images/Screenshot%202025-06-08%201845001.png)
-*Neurodiversity support and accessibility controls interface*
+*Fact-check analysis showing misinformation risk assessment, source credibility scoring, and extracted claims verification for news articles*
 
 
 ### 📰 **Smart Aggregation**
@@ -42,7 +42,7 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Reading History** - Track and revisit articles
 
 ![Reader Mode Interface](Project%20images/Screenshot%202025-06-08%20184511.png)
-*Distraction-free reader mode with enhanced readability*
+*Comprehensive accessibility settings with cognitive profile selection (Standard, ADHD Focus, Autism Structured, Dyslexia Friendly) and live content preview showing structured article formatting*
 
 
 ## 🚀 Quick Start
