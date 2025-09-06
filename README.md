@@ -1,5 +1,7 @@
-# Perspective-Powered-Personalized-News-Aggregator-A-Multi-dimensional-Framework-Content-Analysis-
+# Perspective-Powered-Personalized-News-Aggregator-A-Multi-dimensional-Framework-Content-Analysis
+
 Multi-dimensional news analysis framework featuring RSS aggregation, psycholinguistic manipulation detection, misinformation scoring, cognitive accessibility adaptations, and advanced sentiment insights with TTS support.
+
 ## ✨ Features
 
 ### 🔍 **Advanced Analysis**
@@ -37,8 +39,8 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/kg290/perspective-powered-news-aggregator.git
-cd perspective-powered-news-aggregator
+git clone https://github.com/kg290/Perspective-Powered-Personalized-News-Aggregator-A-Multi-dimensional-Framework-Content-Analysis.git
+cd Perspective-Powered-Personalized-News-Aggregator-A-Multi-dimensional-Framework-Content-Analysis
 ```
 
 2. **Install dependencies**
@@ -140,6 +142,8 @@ Try these sample phrases to see manipulation detection:
 
 ## 🤝 Contributing
 
+We welcome contributions! Please follow these steps:
+
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -151,6 +155,9 @@ Try these sample phrases to see manipulation detection:
 - Add docstrings for new functions
 - Test accessibility features with different profiles
 - Ensure database operations are properly handled
+
+### Contributor License Agreement
+By contributing to this project, you agree that your contributions will be licensed under the Apache License 2.0.
 
 ## 📊 Advanced Features
 
@@ -193,12 +200,28 @@ Try these sample phrases to see manipulation detection:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+Copyright 2025 kg290
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+See the [LICENSE](LICENSE) file for the full license text.
 
 ## 🙏 Acknowledgments
 
 - **feedparser** - RSS feed parsing
-- **BeautifulSoup** - HTML content processing
+- **BeautifulSoup** - HTML content processing  
 - **TextBlob** - Natural language processing
 - **NLTK** - Advanced text analysis
 - **pyttsx3** - Text-to-speech functionality
@@ -207,8 +230,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, please open an issue on GitHub or contact the maintainer.
+For support, please:
+- Open an issue on [GitHub Issues](https://github.com/kg290/Perspective-Powered-Personalized-News-Aggregator-A-Multi-dimensional-Framework-Content-Analysis/issues)
+- Check the [troubleshooting section](#-troubleshooting)
+- Review existing [discussions](https://github.com/kg290/Perspective-Powered-Personalized-News-Aggregator-A-Multi-dimensional-Framework-Content-Analysis/discussions)
+
+## 🔒 Security
+
+If you discover any security vulnerabilities, please report them responsibly by:
+1. **DO NOT** create a public issue
+2. Email the maintainer privately
+3. Provide detailed information about the vulnerability
+4. Allow time for the issue to be resolved before public disclosure
 
 ---
 
 **Built with ❤️ for accessible, intelligent news consumption**
+
+*This project is part of the effort to make information more accessible and to help users critically evaluate news content in an increasingly complex media landscape.*
