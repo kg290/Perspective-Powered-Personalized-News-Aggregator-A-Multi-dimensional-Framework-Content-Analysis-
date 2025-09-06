@@ -2,6 +2,20 @@
 
 Multi-dimensional news analysis framework featuring RSS aggregation, psycholinguistic manipulation detection, misinformation scoring, cognitive accessibility adaptations, and advanced sentiment insights with TTS support.
 
+## 📸 Screenshots
+
+![Application Main Interface](Screenshot%202025-06-08%20184102%20-%20Copy.png)
+*Main application interface showing news aggregation and analysis features*
+
+![News Analysis Dashboard](Screenshot%202025-06-08%20184332.png)
+*Advanced analysis dashboard with manipulation detection and sentiment insights*
+
+![Accessibility Features](Screenshot%202025-06-08%20185001.png)
+*Neurodiversity support and accessibility controls interface*
+
+![Reader Mode](Screenshot%202025-06-08%20184511.png)
+*Distraction-free reader mode with enhanced readability*
+
 ## ✨ Features
 
 ### 🔍 **Advanced Analysis**
@@ -16,6 +30,8 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Dyslexia Support** - Syllable breaks, shorter sentences, and readable fonts
 - **Accessibility Controls** - Font size, line spacing, high contrast mode
 
+![Accessibility Interface](Screenshot%202025-06-08%20185001.png)
+
 ### 📰 **Smart Aggregation**
 - **Multi-Source RSS Feeds** - CNN, BBC, The Guardian, and custom sources
 - **Interest-Based Filtering** - Personalized content based on user preferences
@@ -27,6 +43,8 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Text-to-Speech** - Audio playback for accessibility
 - **Interactive Charts** - Sentiment trends and analytics
 - **Reading History** - Track and revisit articles
+
+![Reader Mode Interface](Screenshot%202025-06-08%20184511.png)
 
 ## 🚀 Quick Start
 
@@ -58,6 +76,8 @@ python -c "import nltk; nltk.download('punkt')"
 python main.py
 ```
 
+![Main Application](Screenshot%202025-06-08%20184102%20-%20Copy.png)
+
 ## 📱 Usage
 
 ### First Launch
@@ -76,6 +96,8 @@ python main.py
 - **Fact Check**: See misinformation risk assessments
 - **News DNA**: Explore article similarities and patterns
 - **Sentiment Insights**: Analyze emotional trends in your reading
+
+![Analysis Dashboard](Screenshot%202025-06-08%20184332.png)
 
 ## 🏗️ Architecture
 
