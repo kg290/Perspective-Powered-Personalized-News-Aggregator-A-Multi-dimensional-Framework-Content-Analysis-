@@ -1,0 +1,21 @@
+# Core dependencies
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+textblob==0.17.1
+nltk==3.8.1
+requests==2.31.0
+numpy==1.24.3
+
+# GUI and visualization
+matplotlib==3.7.2
+tkinter-tooltip==2.0.0
+
+# Text-to-speech
+pyttsx3==2.90
+
+# Web scraping for full articles
+newspaper3k==0.2.8
+
+# Additional utilities
+python-dateutil==2.8.2
+urllib3==2.0.4
