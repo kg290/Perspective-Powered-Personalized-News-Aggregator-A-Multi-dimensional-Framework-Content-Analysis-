@@ -26,6 +26,8 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Accessibility Controls** - Font size, line spacing, high contrast mode
 
 ![Accessibility Interface](Project%20images/Screenshot%202025-06-08%201845001.png)
+*Neurodiversity support and accessibility controls interface*
+
 
 ### 📰 **Smart Aggregation**
 - **Multi-Source RSS Feeds** - CNN, BBC, The Guardian, and custom sources
@@ -40,6 +42,8 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Reading History** - Track and revisit articles
 
 ![Reader Mode Interface](Project%20images/Screenshot%202025-06-08%20184511.png)
+*Distraction-free reader mode with enhanced readability*
+
 
 ## 🚀 Quick Start
 
