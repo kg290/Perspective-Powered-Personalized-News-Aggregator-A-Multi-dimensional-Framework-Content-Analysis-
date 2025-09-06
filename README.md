@@ -10,7 +10,7 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 ![News Analysis Dashboard](Project%20images/Screenshot%202025-06-08%20184332.png)
 *Advanced analysis dashboard with manipulation detection and sentiment insights*
 
-![Accessibility Features](Project%20images/Screenshot%202025-06-08%20185001.png)
+![Accessibility Features](Project%20images/Screenshot%202025-06-08%201845001.png)
 *Neurodiversity support and accessibility controls interface*
 
 ![Reader Mode](Project%20images/Screenshot%202025-06-08%20184511.png)
@@ -30,7 +30,7 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Dyslexia Support** - Syllable breaks, shorter sentences, and readable fonts
 - **Accessibility Controls** - Font size, line spacing, high contrast mode
 
-![Accessibility Interface](Screenshot%202025-06-08%20185001.png)
+![Accessibility Interface](Project%20images/Screenshot%202025-06-08%201845001.png)
 
 ### 📰 **Smart Aggregation**
 - **Multi-Source RSS Feeds** - CNN, BBC, The Guardian, and custom sources
@@ -44,7 +44,7 @@ Multi-dimensional news analysis framework featuring RSS aggregation, psycholingu
 - **Interactive Charts** - Sentiment trends and analytics
 - **Reading History** - Track and revisit articles
 
-![Reader Mode Interface](Screenshot%202025-06-08%20184511.png)
+![Reader Mode Interface](Project%20images/Screenshot%202025-06-08%20184511.png)
 
 ## 🚀 Quick Start
 
@@ -76,7 +76,7 @@ python -c "import nltk; nltk.download('punkt')"
 python main.py
 ```
 
-![Main Application](Screenshot%202025-06-08%20184102%20-%20Copy.png)
+![Main Application](Project%20images/Screenshot%202025-06-08%20184102%20-%20Copy.png)
 
 ## 📱 Usage
 
@@ -97,7 +97,7 @@ python main.py
 - **News DNA**: Explore article similarities and patterns
 - **Sentiment Insights**: Analyze emotional trends in your reading
 
-![Analysis Dashboard](Screenshot%202025-06-08%20184332.png)
+![Analysis Dashboard](Project%20images/Screenshot%202025-06-08%20184332.png)
 
 ## 🏗️ Architecture
 
