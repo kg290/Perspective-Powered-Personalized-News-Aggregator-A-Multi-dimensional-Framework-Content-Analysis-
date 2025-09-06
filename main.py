@@ -48,8 +48,8 @@ DEFAULT_RSS_SOURCES = [
     "https://www.theguardian.com/world/rss"
 ]
 
-GNEWS_API_KEY = "bd0d3ffad825cd83bb6b5da69aa71a24"
-REALTIME_NEWS_API_KEY = "ecd7e32461msh92925960050e441p154d3ajsn6ab6819253ce"
+GNEWS_API_KEY = "YOUR_API_KEY"
+REALTIME_NEWS_API_KEY = "YOUR_API_KEY"
 
 STOPWORDS = set("""
 href theguardian news that with this from said have will your just more they about into than been their which them some would what there could like when also after where over such only other these those upon very through many
@@ -2240,3 +2240,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
