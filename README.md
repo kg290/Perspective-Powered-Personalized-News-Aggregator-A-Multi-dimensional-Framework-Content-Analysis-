@@ -75,8 +75,6 @@ python -c "import nltk; nltk.download('punkt')"
 python main.py
 ```
 
-![Main Application](Project%20images/Screenshot%202025-06-08%20184102%20-%20Copy.png)
-
 ## 📱 Usage
 
 ### First Launch
@@ -95,8 +93,6 @@ python main.py
 - **Fact Check**: See misinformation risk assessments
 - **News DNA**: Explore article similarities and patterns
 - **Sentiment Insights**: Analyze emotional trends in your reading
-
-![Analysis Dashboard](Project%20images/Screenshot%202025-06-08%20184332.png)
 
 ## 🏗️ Architecture
 
